@@ -1,0 +1,15 @@
+body {
+    background-color: beige;
+    background-image: url(http://heavenlyengineering.com/img/tree.png);
+}
+
+h1 {
+    color: mediumpurple;
+    text-align: center;
+}
+
+p {
+    color: forestgreen;
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+}
